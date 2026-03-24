@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amulicious
-- 👀 I’m interested in Payment Gateways
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Paynent app 
+- 👀 I’m interested in Payment Gateways, Anything AI powered.
+- 🌱 I’m currently learning ChatGPT, Claude, Antigravity.
+- 💞️ I’m looking to collaborate on apps that leverage AI to solve real life problems. 
 - 📫 How to reach me github
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I have a music podcast
